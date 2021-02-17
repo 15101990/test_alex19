@@ -8,7 +8,7 @@ int main()
     printf("Enter the Operator \n");
     scanf("%c",&x);
 
-     printf("Enter Number_1 \n");
+     //printf("Enter Number_1 \n");
     scanf("%d",&y);
 
      printf("Enter Number_2 \n");
